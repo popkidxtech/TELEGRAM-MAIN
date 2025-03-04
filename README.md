@@ -21,7 +21,7 @@
 - Telegram account
 - Telegram Bot Token
 - Telegram Bot User ID(uid)
-- **[`HERE IS`](https://github.com/mouricedevs/telegram-bot/blob/main/gift/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
+- **[`HERE IS`](https://github.com/mauricegift/telegram-bot/blob/main/gift/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
 
 ### Configure the Bot:
    - Ensure you forked the repo first so that you be able to edit it on your forked repo.
@@ -36,7 +36,7 @@
 
 ### Deployment
 
-- **Deploy on [HEROKU](https://github.com/mouricedevs/telegram-bot/blob/main/gift/heroku.md)**
+- **Deploy on [HEROKU](https://github.com/mauricegift/telegram-bot/blob/main/gift/heroku.md)**
 
 - **Deploy on [RENDER](https://dashboard.render.com/new)**
   
@@ -57,9 +57,9 @@ To interact with the bot, users can send commands and messages. The bot will res
 - I'll always be adding more commands, features and making general updates so always check✅ out and sync your forks to stay updated.
 
 ### INCASE OF ISSUES ###
- - [CONTACT OWNER](t.me/mouricedevs)
+ - [CONTACT OWNER](t.me/mauricegift)
 
        ©𝟮𝟬𝟮𝟰-2025 𝗚𝗜𝗙𝗧𝗘𝗗 𝗧𝗘𝗖𝗛
 
-- **CHECK OUT MY [WHATSAPP BOT PROJECT](https://github.com/mouricedevske/gifted-md) HERE**
+- **CHECK OUT MY [WHATSAPP BOT PROJECT](https://github.com/mauricegift/gifted-md) HERE**
 
