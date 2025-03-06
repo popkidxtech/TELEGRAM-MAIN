@@ -23,10 +23,10 @@ module.exports = {
             const videoUrl = video.url;
 
             try {
-               // const apiResponse = await axios.get(`${global.giftedApi}/download/dlmp3?apikey=${global.giftedKey}&url=${videoUrl}`);
-               // const downloadUrl = apiResponse.data.result.download_url;
-                const apiResponse = await axios.get(`${global.ytdlApi}/api/yt?query=${searchTerm}`);
-                const downloadUrl = apiResponse.data.result.audio_url;
+               const apiResponse = await axios.get(`${global.giftedApi}/download/dlmp3?apikey=${global.giftedKey}&url=${videoUrl}`);
+               const downloadUrl = apiResponse.data.result.download_url;
+               /* const apiResponse = await axios.get(`${global.ytdlApi}/api/yt?query=${searchTerm}`);
+                const downloadUrl = apiResponse.data.result.audio_url;*/
                 const fileName = apiResponse.data.result.title;
 
                 if (!downloadUrl) {
