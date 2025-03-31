@@ -25,10 +25,10 @@ module.exports = {
 
                  let giftedButtons = [
                 [
-                    { text: 'Video Url', url: `${downloadUrl}` },
-                    { text: 'WaChannel', url: 'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l' }
+                    { text: 'Ytdl Web', url: `${global.ytdlWeb}` },
+                    { text: 'WaChannel', url: global.giftedWaChannel }
                 ]
-            ]
+            ];
 
                 const searchResponse = await axios.get(`${global.giftedApi}/search/yts?apikey=${global.giftedKey}&query=${videoUrl}`);
                 const video = searchResponse.data.results[0];
