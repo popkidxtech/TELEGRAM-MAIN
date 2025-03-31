@@ -15,7 +15,8 @@ global.maherApi = 'https://api.nexoracle.com'; // NexOracle Api
 global.maherKey = ''; // NexOracle Api Key
 global.lyffeApi = 'https://levanter.onrender.com'; // Lyffe Api
 global.giftedWaChannel = 'https://whatsapp.com/channel/0029Vb3hlgX5kg7G0nFggl0Y';
-
+global.giftedRepo = "https://github.com/mauricegift/telegram-bot";
+global.giftedApiRepo = "https://api.github.com/repos/mauricegift/telegram-bot";
 
 global.giftechMess = {
     internalerr: 'Internal Server Error!',
