@@ -14,6 +14,8 @@ global.giftedKey = 'gifted'; // Gifted Api Key
 global.maherApi = 'https://api.nexoracle.com'; // NexOracle Api
 global.maherKey = ''; // NexOracle Api Key
 global.lyffeApi = 'https://levanter.onrender.com'; // Lyffe Api
+global.giftedWaChannel = 'https://whatsapp.com/channel/0029Vb3hlgX5kg7G0nFggl0Y';
+
 
 global.giftechMess = {
     internalerr: 'Internal Server Error!',
