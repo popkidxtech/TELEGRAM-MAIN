@@ -8,8 +8,8 @@ let Giftedd = async (m, { Gifted, text, fetchJson }) => {
 
     let giftedButtons = [
         [
-            { text: 'Ai Web', url: 'https://api.giftedtech.web.id/aichat' },
-            { text: 'WaChannel', url: 'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l' }
+            { text: 'Ai Web', url: `${global.giftedApi}/aichat` },
+            { text: 'WaChannel', url: ${global.giftedWaChannel} }
         ]
     ];
 
