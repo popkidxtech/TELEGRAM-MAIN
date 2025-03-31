@@ -4,7 +4,6 @@
    #### Note:
 
 - **Here is a [DEMO VERSION](https://t.me/giftedmd_bot) of this bot project. You can test it out for 🆓**
-- **Downloaders and Ai Won't Work Until You Insert apiKeys in th set.js file. [THE DEMO VERSION](https://t.me/giftedmd_bot) has it's Downloaders and Ai Working.**
 
 - Gifted-Md Telegram bot project is designed to automate tasks, respond to commands, and integrate with external services or APIs, offering users a robust interactive experience.
 
@@ -23,8 +22,11 @@
 - Telegram Bot User ID(uid)
 - **[`HERE IS`](https://github.com/mauricegift/telegram-bot/blob/main/gift/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
 
+- **First [Fork Repo](https://github.com/mauricegift/telegram-bot/fork) to obtain your editable repo.**
+
 ### Configure the Bot:
-   - Ensure you forked the repo first so that you be able to edit it on your forked repo.
+   - Ensure you **[Fork Repo](https://github.com/mauricegift/telegram-bot/fork)** first.
+
    - There's a set.js.
    - Navigate to it and Add your bot token, bot user ID(id) and other settings:
      ```
