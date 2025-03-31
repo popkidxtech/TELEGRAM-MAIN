@@ -26,7 +26,7 @@ module.exports = {
                  let giftedButtons = [
                 [
                     { text: 'Song Url', url: `${downloadUrl}` },
-                    { text: 'WaChannel', url: 'https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l' }
+                    { text: 'WaChannel', url: global.giftedWaChannel }
                 ]
             ];
 
