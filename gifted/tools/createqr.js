@@ -8,7 +8,7 @@ let Giftedd = async (m, { Gifted, text, fetchJson }) => {
 
     let giftedButtons = [
         [
-            { text: 'WaChannel', url: `${global.giftedWaChannel}` }
+            { text: 'WaChannel', url: global.giftedWaChannel }
         ]
     ];
 
