@@ -3,7 +3,7 @@ module.exports = {
     desc: 'Download repo github',
     category: ['downloader'],
     async run(m, { Gifted, text }) {
-        if (!text) return Gifted.reply({ text: `Provide a public github repo link ie ${global.prefix}gitclone https://github.com/mouricedevs/gifted-pair-code` }, m)
+        if (!text) return Gifted.reply({ text: `Provide a public github repo link ie ${global.prefix}gitclone https://github.com/mauricegift/gifted-pair-code` }, m)
 		if (!text.includes('https://github.com')) return Gifted.reply({ text: 'Invalid url-!' }, m)
             Gifted.reply({ text: giftechMess.wait }, m)
 		let [, user, repo] = text.match(/(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i) || []
