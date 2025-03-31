@@ -25,7 +25,7 @@ module.exports = {
 
                  let giftedButtons = [
                 [
-                    { text: 'Song Url', url: `${downloadUrl}` },
+                    { text: 'Ytdl Web', url: `${global.ytdlWeb}` },
                     { text: 'WaChannel', url: global.giftedWaChannel }
                 ]
             ];
