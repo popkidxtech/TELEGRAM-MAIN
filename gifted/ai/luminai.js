@@ -9,7 +9,7 @@ let Giftedd = async (m, { Gifted, text, fetchJson }) => {
     let giftedButtons = [
         [
             { text: 'Ai Web', url: `${global.giftedApi}/aichat` },
-            { text: 'WaChannel', url: ${global.giftedWaChannel} }
+            { text: 'WaChannel', url: global.giftedWaChannel }
         ]
     ];
 
