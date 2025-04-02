@@ -17,6 +17,13 @@ module.exports = {
             		Gifted.reply({ text: `Bot Rate : *${rate}%*`, parse_mode: 'Markdown' }, m)
                 }
                 break;
+
+                // next case ——————————————
+                
+                case 'web': {
+            		Gifted.reply({ text: 'Visit the Owner Website Here: https://www.giftedtech.web.id' }, m)
+                }
+                break;
             }
         } catch (err) {
             console.log(err)
