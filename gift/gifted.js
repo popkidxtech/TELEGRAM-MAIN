@@ -143,7 +143,7 @@ module.exports = async (Gifted) => {
                     console.error(`Error executing plugin ${plugin.filePath}:`, error);
                 }
             }
-            handleCases(m, GiftedTech)
+            handleCases(m, GiftedTech);
         } catch (err) {
             console.log(err);
             Gifted.reply({ text: `${err}`, parse_mode: 'Markdown' }, m);
@@ -185,7 +185,7 @@ module.exports = async (Gifted) => {
                         console.error(`Error executing plugin ${plugin.filePath}:`, error);
                     }
                 }
-                handleCases(m, GiftedDevs)
+                handleCases(m, GiftedDevs);
                 await Gifted.answerCallbackQuery(callbackQuery.id);
             }
         } catch (err) {
