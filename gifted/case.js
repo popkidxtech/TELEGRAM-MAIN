@@ -1,4 +1,4 @@
-const { fetchJson, clockString, pickRandom, runtime, formatp, executeCommand } = require('../gift/giftedfunc');
+const { fetchJson, clockString, pickRandom, runtime, formatp, executeCommand } = require('../gift');
 
 module.exports = {
     async handleCases(m, { Gifted, text, command }) {
