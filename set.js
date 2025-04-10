@@ -1,28 +1,12 @@
 global.prefix = '.'; // Set Your Preferred Prefix
 global.botName = 'POPKID-MD'; // Bot Name
 global.botVersion = '2.0.0';
-global.botPic = 'https://files.catbox.moe/cjwzcb.jpg'; // Can use path, can also use link
+global.botPic = 'https://files.catbox.moe/w5xf3f.jpg'; // Can use path, can also use link
 global.botToken = '7604322075:AAHWCd2vdwOwWFt26aQ0ZB0J8wS4-cctNq4'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'Popkidtech254'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
 global.ownerId = [7966970227]; // Replace With Your Owner ID(For Bot Owner), You Can Add More than 1
-global.footer = '*Powered by PopkidXtech*';
-global.ytdlWeb = 'https://ytdl.giftedtech.web.id';
-global.ytdlApi = 'https://giftedtech-ytdl-api.hf.space';
-global.giftedApi = 'https://api.giftedtech.web.id/api'; // Gifted Api
-global.giftedKey = 'gifted'; // Gifted Api Key
-global.maherApi = 'https://api.nexoracle.com'; // NexOracle Api
-global.maherKey = ''; // NexOracle Api Key
-global.lyffeApi = 'https://levanter.onrender.com'; // Lyffe Api
-global.giftedWaChannel = 'global.prefix = '.'; // Set Your Preferred Prefix
-global.botName = 'POPKID-MD'; // Bot Name
-global.botVersion = '2.0.0';
-global.botPic = 'https://files.catbox.moe/cjwzcb.jpg'; // Can use path, can also use link
-global.botToken = '7886085442:AAE1OkqQbZwBzDof2sRHSiixdlNsPEFR2Ds'; // Replace With Your Bot Token (Get it from BotFather)
-global.ownerUsername = 'Popkidtech254'; // Replace With Your Telegram Username(For Bot Owner)
-global.timeZone = 'Africa/Nairobi'; // Your Time Zone
-global.ownerId = [7966970227]; // Replace With Your Owner ID(For Bot Owner), You Can Add More than 1
-global.footer = '*Powered by PopkidXtech*';
+global.footer = '*Powered by PopkidTech*';
 global.ytdlWeb = 'https://ytdl.giftedtech.web.id';
 global.ytdlApi = 'https://giftedtech-ytdl-api.hf.space';
 global.giftedApi = 'https://api.giftedtech.web.id/api'; // Gifted Api
@@ -31,8 +15,8 @@ global.maherApi = 'https://api.nexoracle.com'; // NexOracle Api
 global.maherKey = ''; // NexOracle Api Key
 global.lyffeApi = 'https://levanter.onrender.com'; // Lyffe Api
 global.giftedWaChannel = 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l';
-global.giftedRepo = "https://github.com/Popkiddevs/POPKID-XTECH";
-global.giftedApiRepo = "https://api.github.com/repos/popkidxtech/TELEGRAM-MAIN";
+global.giftedRepo = "https://github.com/mauricegift/telegram-bot";
+global.giftedApiRepo = "https://api.github.com/repos/mauricegift/telegram-bot";
 
 global.giftechMess = {
     internalerr: 'Internal Server Error!',
