@@ -32,24 +32,7 @@ global.maherKey = ''; // NexOracle Api Key
 global.lyffeApi = 'https://levanter.onrender.com'; // Lyffe Api
 global.giftedWaChannel = 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l';
 global.giftedRepo = "https://github.com/Popkiddevs/POPKID-XTECH";
-global.giftedApiRepo = "https://api.github.com/repos/popkidxrech/TELEGRAM-MAIN";
-
-global.giftechMess = {
-    internalerr: 'Internal Server Error!',
-    owner: 'Owner-Only Feature!',
-    group: 'Use in a Group!',
-    private: 'Use in a Private Chat!',
-    wait: 'Please Wait...',
-    done: 'Completed Successfully!',
-    error: 'Oops, an Error Occurred'
-};
-
-String.prototype.capitalize = function () {
-    return this.charAt(0).toUpperCase() + this.slice(1);
-};
-';
-global.giftedRepo = "https://github.com/Popkiddevs/POPKID-XTECH";
-global.giftedApiRepo = "https://api.github.com/repos/popkidxrech/TELEGRAM-MAIN";
+global.giftedApiRepo = "https://api.github.com/repos/popkidxtech/TELEGRAM-MAIN";
 
 global.giftechMess = {
     internalerr: 'Internal Server Error!',
